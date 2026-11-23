@@ -1,0 +1,11 @@
+{
+  "name": "snowman-overlay",
+  "version": "1.0.0",
+  "description": "Snowman desktop pet: roll, stack and decorate snowmen on your taskbar",  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "33.2.1"
+  }
+}
